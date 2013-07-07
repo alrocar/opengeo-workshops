@@ -1,35 +1,35 @@
-OpenLayers complete exercise
+// OpenLayers complete exercise
 
-BASICS
-    Create a full screen map
-    Set projection to 900913 and displayProjection to 4326
-    Restrict the map extent to []
-    Add two raster layers as overlays (mapquest, and other from geoserver)
-    Load the geoserver wms layer with singleTile
-    Set the opacity of a layer to 50%
-    Set tilesize to 512
-    Add the layerswitcher
-    Measuring
+// BASICS 30'
+//     +Create a full screen map
+//     +Set projection to 900913 and displayProjection to 4326
+//     +Restrict the map extent to []
+//     +Add two raster layers as overlays (mapquest, and other from geoserver)
+//     Load the geoserver wms layer with singleTile
+//     +Set the opacity of a layer to 50%
+//     Set tilesize to 512
+//     +Add the layerswitcher
+//     +Avoid the OSM layer to appear in the layerSwitcher
+//     +Measuring
+//     +zoombox
+//     +Add the mouseposition control
 
-MEDIUM
-    Add two wfs layers (polygons and points)
-    Add an image layer
-    Add the google maps imagery layers
-    Add a gml layer
-    Add a kml layer
-    Adding markers
-    Popups
-    Add the mouseposition control
-    Editing toolbar
+// MEDIUM 45'
+//     Add buttons for switching measure controls
+//     +Add the google maps imagery layers
+//     +Add a gml layer projection: "EPSG:4326"
+//     +Add a kml layer projection: "EPSG:4326"
+//     +Add two wfs layers (polygons and points)
+//     +Popups
+//     +Editing toolbar
+//     +Change the position and/or them of the layerswitcher
+//     +Add an image layer
 
-ADVANCED
-    Add features programatically (cluster strategy)
-    Filter wfs
-    Set the stylemap of those layers
-    Use a AnimatedClusterStrategy in the points layer
-    Use the FeaturePopup
-    Side by side map
-    Events - vector layers feature events
-    Geolocatoin control
-    Context styling
-    Rules
+// ADVANCED 1h
+//     Filter wfs
+//     Set the stylemap of those layers
+//     +Use a AnimatedClusterStrategy in the points layer
+//     Use the FeaturePopup
+//     Events - vector layers feature events
+//     Context styling
+//     Rules
