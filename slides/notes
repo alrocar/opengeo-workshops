@@ -1,0 +1,29 @@
+Notes
+=====
+
+Intro to web development
+
+* When talking about tags, copy and paste the tags examples into a jsFiddle
+* The same for CSS, with different selectors
+* Javascript LAB: Go to mistakes.io and follow the w.js
+    Alternate the mistakes.io console with the Chromium console
+* DOM
+    See the examples
+    Show the examples in chrome
+* Web programming lab
+    A landing page for my Github Profile
+    Open the profile.html and explain how the website is created.
+    First the HTML
+    Second the CSS
+    Third the Javascript
+
+
+OpenLayers LAB
+
+* Create the very basic examples
+* Propose others from basic (20')
+* Solve the problems on the projector (10')
+* Propose the medium ones (1h)
+* Solve some of them on the projector (15')
+* Propose the advanced ones (2h)
+* Give the solutions
