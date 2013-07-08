@@ -120,19 +120,16 @@ function addStatesLayer() {
 function addCitiesLayer() {
     var context = {
         size: function(feature) {
-            var population = feature.attributes.population;
-            while(population.indexOf(",") != -1) {
-                population = population.replace(",", "");
-            }
-            var popInt = parseInt(population, 10);
-            return popInt / 1000000;
+            var population = feature.attributes.POP_MAX;
+            
+            return population / 1000000;
         }
     };
     citiesLayer = new OpenLayers.Layer.Vector("Cities", {
         protocol: new OpenLayers.Protocol.WFS({
             url: "/geoserver/wfs",
             featureType: "cities",
-            featureNS: "http://world.opengeo.org"
+            featureNS: "http://earth"
         }),
         strategies: [new OpenLayers.Strategy.BBOX()],
         projection: "EPSG:4326",
@@ -140,7 +137,7 @@ function addCitiesLayer() {
             "default" : new OpenLayers.Style({
                     fillColor: "#8aeeef",
                     fillOpacity: 0.5,
-                    label: '${City}',
+                    label: '${NAMEASCII}',
                     pointRadius: '${size}'
                 }, 
                 {
@@ -149,7 +146,7 @@ function addCitiesLayer() {
             ),
             "select" : new OpenLayers.Style({
                     fillColor: "yellow",
-                    label: '${City}',
+                    label: '${NAMEASCII}',
                     pointRadius: '${size}',
                     fillOpacity: 0.8,
                 }, 
