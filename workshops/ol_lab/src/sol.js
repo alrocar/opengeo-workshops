@@ -62,7 +62,7 @@ var init = function () {
     addKMLLayer("Global Undersea Fiber Cables", "data/global_undersea.kml");
     addStatesLayer();
     addCitiesLayer();
-    addGeoJSONLayer("World Cities (GeoJSON)", "world_cities.json");
+    addGeoJSONLayer("World Cities (GeoJSON)", "data/world_cities.json");
     addEditingToolbar();
     addMeasureControl();
     addPopupControl();
