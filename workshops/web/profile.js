@@ -1,30 +1,4 @@
-var me = {
-    name: "Alberto",
-    githubProfile: "http://github.com/alrocar"
-}
-
-function getMyNameElement() {
-    return document.getElementById('myname');
-}
-
-function setName() {
-    var myNameElement = getMyNameElement();
-    var html = myNameElement.innerHTML;
-    html += me.name;
-    myNameElement.innerHTML = html;
-}
-
-function setGithubProfile() {
-    document.getElementsByTagName('a')[0].setAttribute('href', me.githubProfile);
-}
-
-function registerClickOnMyName() {
-    var myNameElement = getMyNameElement();
-    myNameElement.onclick = function() {
-        alert('clicked');
-        this.style.color = 'blue';
-    }
-}
+//CREATE THE GLOBAL VARIABLE with a JSON OBJECT containing your name and githubProfile
 
 document.onreadystatechange = function() {
     if (document.readyState == 'complete') {
@@ -33,3 +7,31 @@ document.onreadystatechange = function() {
         registerClickOnMyName();
     }
 }
+
+function setName() {
+    var myNameElement = getMyNameElement();
+    var html = myNameElement.innerHTML;
+    //concatenate your name (from the JSON) to the html
+    
+    //set the innerHTML property of myNameElement to html
+    
+}
+
+function setGithubProfile() {
+    var linkElement = document.getElementsByTagName('a')[0];
+    //set the attribute href of linkElement to your githubProfile
+    
+}
+
+function registerClickOnMyName() {
+    var myNameElement = getMyNameElement();
+    myNameElement.onclick = function() {
+        //set the color of the element to 'blue'
+        
+    }
+}
+
+function getMyNameElement() {
+    return document.getElementById('myname');
+}
+

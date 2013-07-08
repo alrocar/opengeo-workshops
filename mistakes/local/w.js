@@ -24,10 +24,12 @@ this is a block comment
 1-1;
 2*2;
 4/2;
-6%4;
+6%4; //modulus, division reminder
 
 //and a built-in Math object for advanced 
 //functions and constants
+//Take a look to the complete list
+//of functions in the Chrome console
 Math.PI;
 Math.sin(3.5);
 
@@ -61,6 +63,8 @@ isNaN(NaN);
 
 /**********Strings************/
 //we have strings
+//Take a look to the complete list
+//of functions in the Chrome console
 "hello";
 "hello".length;
 "hello".charAt(0);
@@ -206,6 +210,8 @@ obj["details"]["size"];
 
 /**********Arrays************/
 //We have Arrays
+//Take a look to the complete list
+//of functions in the Chrome console
 var a = ["dog", "cat", "hen"];
 a.length;
 
@@ -226,6 +232,7 @@ for (var i = 0, item; item = a[i++];) {
     // Do something with item
 }
 
+//iterate objects
 for (var i in a) {
   // Do something with a[i]
 }
