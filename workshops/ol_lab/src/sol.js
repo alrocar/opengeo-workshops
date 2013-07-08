@@ -95,7 +95,7 @@ function addStatesLayer() {
         protocol: new OpenLayers.Protocol.WFS({
             url: "/geoserver/wfs",
             featureType: "states",
-            featureNS: "http://usa.opengeo.org"
+            featureNS: "http://www.openplans.org/topp"
         }),
         strategies: [new OpenLayers.Strategy.BBOX()],
         projection: "EPSG:4326",
