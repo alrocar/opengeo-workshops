@@ -93,7 +93,7 @@ function addEditingToolbar() {
 function addStatesLayer() {
     statesLayer = new OpenLayers.Layer.Vector("States", {
         protocol: new OpenLayers.Protocol.WFS({
-            url: "geoserver/wfs",
+            url: "/geoserver/wfs",
             featureType: "states",
             featureNS: "http://usa.opengeo.org"
         }),
@@ -130,7 +130,7 @@ function addCitiesLayer() {
     };
     citiesLayer = new OpenLayers.Layer.Vector("Cities", {
         protocol: new OpenLayers.Protocol.WFS({
-            url: "geoserver/wfs",
+            url: "/geoserver/wfs",
             featureType: "cities",
             featureNS: "http://world.opengeo.org"
         }),
