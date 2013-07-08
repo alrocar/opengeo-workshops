@@ -1,0 +1,36 @@
+// OpenLayers complete exercise
+
+// BASICS 30'
+//     +Create a full screen map
+//     +Set projection to 900913 and displayProjection to 4326
+//     +Restrict the map extent to []
+//     +Add two raster layers as overlays (mapquest, and other from geoserver)
+//     +Set tilesize to 512
+//     +Load the geoserver wms layer with singleTile (see the difference with the labelling)
+//     +Set the opacity of a layer to 50%
+//     +Add the layerswitcher
+//     +Avoid the OSM layer to appear in the layerSwitcher
+//     +zoombox
+//     +Add the mouseposition control
+
+// MEDIUM 45'
+//     +Add a gml layer projection: "EPSG:4326"
+            //http://localhost:8080/opengeo-workshops/workshops/openlayers/lab/src/data/europe.gml
+//     +Add a kml layer projection: "EPSG:4326"
+            //http://localhost:8080/opengeo-workshops/workshops/openlayers/lab/src/data/global_undersea.kml
+//     +Add two wfs layers (polygons and points)
+            //states and meteors
+//     +Editing toolbar
+//     +Change the position and/or theme of the layerswitcher
+//     +Add buttons for switching measure controls
+//     +Measuring
+//     +Use the FeaturePopup
+
+// ADVANCED 1h
+//     +Filter wfs: Countries of the states with a population greater than 700000
+//     +Set the stylemap of the citiesLayer
+//     +Register to the 'featureselected' event of the states layer and show an alert with the ID of the feature
+//     +Context styling
+//     +Use a AnimatedClusterStrategy in the points layer
+//     +Rules
+//     +add a method to add unique values styles to a layer given its name and a feature attribute name
