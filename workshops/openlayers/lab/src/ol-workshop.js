@@ -21,11 +21,7 @@ var init = function () {
         theme: null,
         controls: [
             new OpenLayers.Control.Attribution(),
-            new OpenLayers.Control.TouchNavigation({
-                dragPanOptions: {
-                    enableKinetic: true
-                }
-            }),
+            new OpenLayers.Control.Navigation(),
             new OpenLayers.Control.Zoom()
         ],
         layers: [
