@@ -3,31 +3,31 @@
 // BASICS 30'
 //     +Create a full screen map
 //     +Set projection to 900913 and displayProjection to 4326
-//     +Restrict the map extent to []
-//     +Add two raster layers as overlays (mapquest, and other from geoserver)
-//     +Set tilesize to 512
-//     +Load the geoserver wms layer with singleTile (see the difference with the labelling)
-//     +Set the opacity of a layer to 50%
+//     +Restrict the map extent of the map to a bounding box (coordinates must be in 900913)
+//     +Add two raster layers as overlays (mapquest and the states layer from geoserver)
+//     +Set tilesize to 512 * 512
+//     +Load the geoserver wms layer with singleTile (see the different labeling options)
+//     +Set the transparency of a layer to 50%
 //     +Add the layerswitcher
 //     +Avoid the OSM layer to appear in the layerSwitcher
-//     +zoombox
+//     +Add the zoombox control
 //     +Add the mouseposition control
 
-// MEDIUM 45'
+// MEDIUM 1h
 //     +Add a gml layer projection: "EPSG:4326"
-            //http://localhost:8080/opengeo-workshops/workshops/openlayers/lab/src/data/europe.gml
+            //data/europe.gml
 //     +Add a kml layer projection: "EPSG:4326"
-            //http://localhost:8080/opengeo-workshops/workshops/openlayers/lab/src/data/global_undersea.kml
+            //data/global_undersea.kml
 //     +Add two wfs layers (polygons and points)
-            //states and meteors
-//     +Editing toolbar
+            //states and cities
+//     +Add the editing toolbar
 //     +Change the position and/or theme of the layerswitcher
-//     +Add buttons for switching measure controls
-//     +Measuring
-//     +Use the FeaturePopup
+//     +Add the DynamicMeasure control from the extras folder
+//     +Add buttons for switching distance and area measure controls
+//     +Add the FeaturePopup control from the extras folder and configure it for the cities layer
 
-// ADVANCED 1h
-//     +Filter wfs: Countries of the states with a population greater than 700000
+// ADVANCED 2h
+//     +Filter wfs: Filter countries of the states with a population greater than 700000
 //     +Set the stylemap of the citiesLayer
 //     +Register to the 'featureselected' event of the states layer and show an alert with the ID of the feature
 //     +Context styling
