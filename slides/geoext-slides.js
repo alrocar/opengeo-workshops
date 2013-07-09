@@ -1,12 +1,12 @@
 <div class="slides">
     <section>
         <h2 class="absolute-element" style="position: absolute; width: 962px; height: 679px; z-index: 4; left: 0px; top: 1px;">
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/albertoromeu/images/41364/slide_first.png">
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/albertoromeu/images/41364/slide_first.png" style="">
         <br>
 </h2>
-    </section>
-    <section>
-        <h1>
+</section>
+        <section>
+            <h1>
     <br>
 </h1>
 <h1>Developing with <font color="#6598cd">geoext</font>
@@ -19,82 +19,83 @@
 </div>
 
 
+
 </section>
-        <section>
-            <h1>
-                <font color="#6598cd">
-                    <br>
-                </font>
-            </h1>
+            <section>
+                <h1>
+                    <font color="#6598cd">
+                        <br>
+                    </font>
+                </h1>
 <h1>
 <font color="#6598cd">What</font> is GEOEXT?</h1>
 <div>
-            <br>
-            </div>
+                <br>
+                </div>
 <blockquote class="fragment" data-fragment-index="0">"a JavaScript toolkit for Rich Web Mapping Applications"</blockquote>
-        </section>
-        <section>
-            <h2>
+            </section>
+            <section>
+                <h2>
 <font color="#6598cd">Where</font> in the stack?</h2>
 <img src="http://media.directionsmedia.net/directionsmag/channels/articles/opengeographic1.jpg" style="height: 499px;">
-            <br>
-        </section>
-        <section>
-            <section data-background-color="rgba( 200, 50, 30, 0.6 )">
-                <h1>
+                <br>
+            </section>
+            <section>
+                <section data-background-color="rgba( 200, 50, 30, 0.6 )">
+                    <h1>
     <font color="#3c78d8">
         <br>
-            </font>
+                </font>
     </h1>
 <h1>
 <font color="#6598cd">Why</font> geoext?</h1>
 </section>
-            <section data-background-color="rgba( 200, 50, 30, 0.6 )">
-                <p style="text-align: left; ">
+                <section data-background-color="rgba( 200, 50, 30, 0.6 )">
+                    <p style="text-align: left; ">
+                        <font style="font-size: 18px;">
+                            <b>
+                            <font color="#6598cd">WHY</font>&nbsp;GEOEXT?</b>
+                        </font>
+                    </p>
+<p style="text-align: left; ">
                     <font style="font-size: 18px;">
                         <b>
-                        <font color="#6598cd">WHY</font>&nbsp;GEOEXT?</b>
-                    </font>
-                </p>
-<p style="text-align: left; ">
-                <font style="font-size: 18px;">
-                    <b>
-                    <br>
-                </b>
-            </font>
-        </p>
+                        <br>
+                    </b>
+                </font>
+            </p>
 <div>
 <h1 style="font-style: normal; font-variant: normal;">
-        <span style="text-align: left;">1</span>
-        </h1>
+            <span style="text-align: left;">1</span>
+            </h1>
 <div style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal;">
 <span style="text-align: left;">From web pages to&nbsp;</span>
-        <b style="text-align: left;">
-            <font color="#6598cd">
-                <font style="font-size: 42px;">WEB</font>
-                <font style="font-size: 42px;">&nbsp;APPLICATIONS</font>
-            </font>
-        </b>
+            <b style="text-align: left;">
+                <font color="#6598cd">
+                    <font style="font-size: 42px;">WEB</font>
+                    <font style="font-size: 42px;">&nbsp;APPLICATIONS</font>
+                </font>
+            </b>
 </div>
 </div>
-    </section>
-    <section data-background-color="rgba( 200, 50, 30, 0.6 )">
-        <p>
-    </p>
+        </section>
+        <section data-background-color="rgba( 200, 50, 30, 0.6 )">
+            <p>
+        </p>
 <div style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 36.047515869140625px; font-style: normal; font-variant: normal; font-weight: normal; vertical-align: baseline; color: rgb(238, 238, 238); orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
-</div>
+    </div>
 <p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-size: 36.047515869140625px; font-style: normal; font-variant: normal; font-weight: normal; vertical-align: baseline; color: rgb(238, 238, 238); orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: left;">
-<font style="box-sizing: border-box; font-size: 18px;">
-    <b style="box-sizing: border-box; font-weight: bold; margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;">
-        <font color="#6598cd" style="box-sizing: border-box;">WHY</font>&nbsp;GEOEXT?</b>
+    <font style="box-sizing: border-box; font-size: 18px;">
+        <b style="box-sizing: border-box; font-weight: bold; margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;">
+            <font color="#6598cd" style="box-sizing: border-box;">WHY</font>&nbsp;GEOEXT?</b>
+        </font>
+    </p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-size: 36.047515869140625px; font-style: normal; font-variant: normal; font-weight: normal; vertical-align: baseline; color: rgb(238, 238, 238); orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: left;">
+    <font style="box-sizing: border-box; font-size: 18px;">
+        <b style="box-sizing: border-box; font-weight: bold; margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;">
+            <br>
+        </b>
     </font>
-</p>
-<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-size: 36.047515869140625px; font-style: normal; font-variant: normal; font-weight: normal; vertical-align: baseline; color: rgb(238, 238, 238); orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: left;">
-<font style="box-sizing: border-box; font-size: 18px;">
-    <b style="box-sizing: border-box; font-weight: bold; margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-style: inherit; font-variant: inherit; vertical-align: baseline;">
-        <br>
-    </b>
-</font>
 </p>
 <h1 style="font-style: normal; font-variant: normal;">
 <span style="text-align: left;">2</span>
@@ -774,9 +775,8 @@
 <section>
     <h2 class="absolute-element" style="position: absolute; width: 959px; height: 680px; z-index: 4; left: 1px; top: 0px;">
     <a href="http://www.sigte.udg.edu/summerschool2013/" target="_blank">
-    <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/albertoromeu/images/41363/slide_last.png">
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/albertoromeu/images/41363/slide_last.png" style="">
 </a>
 </h2>
-
 </section>
 </div>

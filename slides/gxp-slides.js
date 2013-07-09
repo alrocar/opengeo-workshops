@@ -1,25 +1,25 @@
 <div class="slides">
     <section>
-        <h1 class="absolute-element" style="position: absolute; width: 957px; height: 691px; z-index: 4; left: -1px; top: 1px;">
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/alrocar/images/42240/slide_first.png" style="width: 782px;">
+        <h2 class="absolute-element" style="position: absolute; width: 962px; height: 679px; z-index: 4; left: 0px; top: 1px;">
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/albertoromeu/images/41364/slide_first.png" style="">
         <br>
-</h1>
-    </section>
-    <section>
-        <h1>
-            <span>
-                <br>
-            </span>
-        </h1>
+</h2>
+</section>
+        <section>
+            <h1>
+                <span>
+                    <br>
+                </span>
+            </h1>
 <h1>
-        <span>DEVELOPING WITH&nbsp;</span>
-    </h1>
+            <span>DEVELOPING WITH&nbsp;</span>
+        </h1>
 <h1>
     <font color="#6598cd">GXP</font>
 </h1>
 <div>
-    <font color="#ffffff" style="font-size: 32px;">(OpenGeo Suite Client SDK)</font>
-</div>
+        <font color="#ffffff" style="font-size: 32px;">(OpenGeo Suite Client SDK)</font>
+    </div>
 <div>
     
 <font color="#6598cd">
@@ -27,11 +27,11 @@
 </font>
 </div>
 </section>
-<section>
-    <h1>
+    <section>
+        <h1>
     <font color="#6598cd">
         <br>
-</font>
+    </font>
 </h1>
 <h1>
 <font color="#6598cd">What</font> is GXP?</h1>
@@ -40,24 +40,24 @@
 </div>
 <blockquote class="fragment" data-fragment-index="0">"a Javascript SDK for developing high level GeoExt based Applications"</blockquote>
 </section>
-<section>
-    <h2>
+    <section>
+        <h2>
 <font color="#6598cd">Where</font> in the stack?</h2>
 <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/alrocar/images/42785/opengeo-suite-gxp.png" style="height: 523px;">
-    <br>
-</section>
-<section>
+        <br>
+    </section>
     <section>
-        <h1>
+        <section>
+            <h1>
     <font color="#3c78d8">
         <br>
-    </font>
+        </font>
     </h1>
 <h1>
 <font color="#6598cd">Why</font> GXP?</h1>
 </section>
-    <section>
-        <h2>
+        <section>
+            <h2>
     <br>
 </h2>
 <div>
@@ -66,20 +66,20 @@
 </h1>
 <div style="text-align: center;">
 <font>
-        <font color="#ffffff" style="font-size: 32px;">Need of a </font>
-        <b>
-        <font color="#6598cd" style="font-size: 42px;">COMPLETE SDK</font>
-    </b>
-    <font color="#ffffff" style="font-size: 32px;"> for web mapping applications</font>
-</font>
-<span style="color: rgb(101, 152, 205); font-size: 41.51681900024414px;">&nbsp;</span>
+            <font color="#ffffff" style="font-size: 32px;">Need of a </font>
+            <b>
+            <font color="#6598cd" style="font-size: 42px;">COMPLETE SDK</font>
+        </b>
+        <font color="#ffffff" style="font-size: 32px;"> for web mapping applications</font>
+    </font>
+    <span style="color: rgb(101, 152, 205); font-size: 41.51681900024414px;">&nbsp;</span>
 </div>
 
 </div>
 
 </section>
-<section>
-    <h2>
+    <section>
+        <h2>
     <br>
 </h2>
 <div>
@@ -88,16 +88,16 @@
 </h1>
 <div>
 <font color="#6598cd" style="font-family: inherit; font-style: inherit; font-variant: inherit; text-align: left; font-size: 42px;">
-    <b>MINIMAL CONFIGURATION</b>&nbsp;</font>
-    <span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal; text-align: left;">for complex apps</span>
-    <br>
+        <b>MINIMAL CONFIGURATION</b>&nbsp;</font>
+        <span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal; text-align: left;">for complex apps</span>
+        <br>
 </div>
 
 </div>
 
 </section>
-    <section>
-        <h2>
+        <section>
+            <h2>
     <br>
 </h2>
 <div>
@@ -106,15 +106,15 @@
 </h1>
 <div>
 <font color="#6598cd" style="text-align: left; font-size: 42px;">
-        <b>FREE</b>&nbsp;</font>
-        <span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal; text-align: left;">- GPLv3 License</span>
+            <b>FREE</b>&nbsp;</font>
+            <span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal; text-align: left;">- GPLv3 License</span>
 </div>
 
 </div>
 
 </section>
-        <section>
-            <h2>
+            <section>
+                <h2>
     <br>
 </h2>
 <div>
@@ -123,27 +123,27 @@
 </h1>
 <div>
 <font style="text-align: left;">
-            <font color="#6598cd" style="font-weight: bold; font-size: 42px;">EVEN EASIER&nbsp;</font>
-            <font color="#ffffff" style="font-size: 32px;">to create</font>
-        </font>
-        <span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal; text-align: left;">&nbsp;new applications</span>
-        <br>
+                <font color="#6598cd" style="font-weight: bold; font-size: 42px;">EVEN EASIER&nbsp;</font>
+                <font color="#ffffff" style="font-size: 32px;">to create</font>
+            </font>
+            <span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal; text-align: left;">&nbsp;new applications</span>
+            <br>
 </div>
 
 </div>
 
 </section>
-    </section>
-    <section>
+        </section>
         <section>
-            <h1>
+            <section>
+                <h1>
     <br>
 </h1>
 <h1>the <font color="#6598cd">concept</font>
 </h1>
 </section>
-            <section>
-                <h2>
+                <section>
+                    <h2>
     <br>
 </h2>
 <h1>
@@ -151,12 +151,12 @@
 </h1>
 <div>
 <span style="text-align: left;">GeoExt + OpenLayers + <font style="font-size: 42px;" color="#6598cd">
-                <b>GXP API</b>
-            </font>
-        </span>&nbsp;+ <font color="#6598cd" style="font-size: 42px;">
-        <b>SDK</b>
-    </font>
-    <br>
+                    <b>GXP API</b>
+                </font>
+            </span>&nbsp;+ <font color="#6598cd" style="font-size: 42px;">
+            <b>SDK</b>
+        </font>
+        <br>
 </div>
 <div style="text-align: center;">
 
@@ -165,92 +165,92 @@
 <font style="font-size: 32px;" color="#ffffff">MAP</font>
  + <b>
 <font color="#6598cd">Custom components&nbsp;</font>
-</b>
-<span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal;">+&nbsp;</span>
-<b style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal;">
-    <font color="#6598cd">Lifecycle</font>
-</b>
+    </b>
+    <span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal;">+&nbsp;</span>
+    <b style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal;">
+        <font color="#6598cd">Lifecycle</font>
+    </b>
 </div>
 </section>
-<section>
-    <h2>
+    <section>
+        <h2>
     <br>
 </h2>
 <h1>2</h1>
 <div>
 <span style="text-align: left;">
 <font color="#ffffff" style="font-size: 32px;">Take</font>
-    <font style="font-weight: bold; font-size: 42px;" color="#6598cd">&nbsp;CONFIGURATION PATTERN</font>&nbsp;</span>
-    <span style="text-align: left;">&nbsp;to a higher level</span>
+        <font style="font-weight: bold; font-size: 42px;" color="#6598cd">&nbsp;CONFIGURATION PATTERN</font>&nbsp;</span>
+        <span style="text-align: left;">&nbsp;to a higher level</span>
 <br>
 </div>
 </section>
-    <section>
-        <h2>
+        <section>
+            <h2>
     <br>
 </h2>
 <h1>3</h1>
 <div style="text-align: center;">
 <font>
-        <span style="font-size: 32px; color: rgb(255, 255, 255);">Bundled into the </span>
-        <font color="#6598cd" style="font-size: 42px;">
-            <b>OpenGeo Suite</b>
+            <span style="font-size: 32px; color: rgb(255, 255, 255);">Bundled into the </span>
+            <font color="#6598cd" style="font-size: 42px;">
+                <b>OpenGeo Suite</b>
+            </font>
+            <span style="font-size: 32px; color: rgb(255, 255, 255);"> (also standalone)</span>
         </font>
-        <span style="font-size: 32px; color: rgb(255, 255, 255);"> (also standalone)</span>
-    </font>
 </div>
 </section>
-    <section>
-        <h2>
+        <section>
+            <h2>
     <br>
 </h2>
 <h1>4</h1>
 <div>
 <b style="text-align: left;">
-        <font color="#6598cd">
-            <span style="font-size: 41.51681900024414px;">COMPLETE</span>
-            </font>&nbsp;</b>
-            <span style="text-align: left;">&nbsp;development lifecycle (create, proxy, minimize, deploy...)</span>
+            <font color="#6598cd">
+                <span style="font-size: 41.51681900024414px;">COMPLETE</span>
+                </font>&nbsp;</b>
+                <span style="text-align: left;">&nbsp;development lifecycle (create, proxy, minimize, deploy...)</span>
 <br>
 </div>
 
 </section>
-        </section>
-        <section>
+            </section>
             <section>
-                <h1>
+                <section>
+                    <h1>
     <font color="#3c78d8">
         <br>
-            </font>
+                </font>
     </h1>
 <h1>
 <font color="#6598cd">WHEN</font> (who) TO USE?</h1>
 </section>
-            <section>
-                <h2>
-                    <br>
-                </h2>
+                <section>
+                    <h2>
+                        <br>
+                    </h2>
 <div>
 <h1 style="font-style: normal; font-variant: normal;">1</h1>
 <div style="font-style: normal; font-variant: normal;">web <font color="#6598cd" style="font-size: 42px;">
-                <b>GIS applications</b>
-            </font> factories</div>
+                    <b>GIS applications</b>
+                </font> factories</div>
 </div>
-        </section>
-        <section>
-            <h2>
+            </section>
+            <section>
+                <h2>
     <br>
 </h2>
 <h1>2</h1>
 <div>
 <font color="#6598cd" style="font-weight: bold; font-size: 41.51681900024414px;">HIGHER LEVEL </font>
-            <font color="#ffffff" style="font-size: 32px;">GIS components</font>
-            <font color="#ffffff" style="font-size: 32px;">&nbsp;(editing, styling, browsing...)</font>
+                <font color="#ffffff" style="font-size: 32px;">GIS components</font>
+                <font color="#ffffff" style="font-size: 32px;">&nbsp;(editing, styling, browsing...)</font>
 </div>
 
 </section>
-            <section>
-                <h2>
+                <section>
+                    <h2>
     <br>
 </h2>
 <h1>3</h1>
@@ -263,32 +263,32 @@
 <span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal;">&nbsp;confused by HTML/CSS</span>&nbsp;</div>
 
 </section>
-                <section>
-                    <h2>
+                    <section>
+                        <h2>
     <br>
 </h2>
 <h1>4</h1>
 <div>
 <span style="font-style: normal; font-variant: normal; font-size: 41.51681900024414px;">
-                    <font color="#6598cd">
-                        <b>EXPERIENCED</b>&nbsp;</font>
-                    </span>
-                    <span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal;">&nbsp;web developers</span>&nbsp;</div>
+                        <font color="#6598cd">
+                            <b>EXPERIENCED</b>&nbsp;</font>
+                        </span>
+                        <span style="font-size: 36.054080963134766px; font-style: normal; font-variant: normal;">&nbsp;web developers</span>&nbsp;</div>
 
 </section>
-                </section>
-                <section>
+                    </section>
                     <section>
-                        <h1>
+                        <section>
+                            <h1>
     <font color="#6598cd">
         <br>
-                    </font>
+                        </font>
     </h1>
 <h1>
 <font color="#6598cd">Learning</font> resources</h1>
 </section>
-                    <section>
-                        <h2>
+                        <section>
+                            <h2>
     <br>
 </h2>
 <h1>1</h1>
@@ -300,7 +300,7 @@
 <font style="font-size: 42px;" color="#6598cd">
     <b>
     <br>
-                    </b>
+                        </b>
 </font>
 </div>
 <div>
@@ -350,8 +350,8 @@
 
 
 </section>
-                    <section>
-                        <h2>
+                        <section>
+                            <h2>
     <br>
 </h2>
 <h1>2</h1>
@@ -363,7 +363,7 @@
     <font style="font-size: 42px;" color="#6598cd">
         <b>
         <br>
-                    </b>
+                        </b>
 </font>
 </div>
 
@@ -399,8 +399,8 @@
 
 
 </section>
-                    <section>
-                        <h2>
+                        <section>
+                            <h2>
     <br>
 </h2>
 <h1>3</h1>
@@ -409,8 +409,8 @@
 <b>API</b>
 </font> reference</div>
 <div>
-                        <br>
-                    </div>
+                            <br>
+                        </div>
 <div>
     <ul>
 <font color="#ffffff">
@@ -446,10 +446,10 @@
 
 
 </section>
-                </section>
-                <section>
+                    </section>
                     <section>
-                        <h1>
+                        <section>
+                            <h1>
     <br>
 </h1>
 <h1>GXP <font color="#6598cd">lab</font>
@@ -459,40 +459,40 @@
 </font>
 </div>
 </section>
-                        <section>
-                            <h2>
-                                <br>
-                            </h2>
+                            <section>
+                                <h2>
+                                    <br>
+                                </h2>
 <h1>1</h1>
 <div>Application <font color="#6598cd" style="font-size: 42px;">
-                            <b>LIFECYCLE</b>
-                        </font>
+                                <b>LIFECYCLE</b>
+                            </font>
 </div>
 <div>
-                        <font color="#6598cd" style="font-size: 42px;">
-                            <b>
-                            <br>
-                        </b>
-                    </font>
-                </div>
+                            <font color="#6598cd" style="font-size: 42px;">
+                                <b>
+                                <br>
+                            </b>
+                        </font>
+                    </div>
 <div>
-                <ol>
+                    <ol>
 <li class="fragment" data-fragment-index="0">
-                <font color="#ffffff" style="font-size: 32px;">Creation</font>
-            </li>
+                    <font color="#ffffff" style="font-size: 32px;">Creation</font>
+                </li>
 <li class="fragment" data-fragment-index="1">
-            <font color="#ffffff" style="font-size: 32px;">Customization</font>
-        </li>
+                <font color="#ffffff" style="font-size: 32px;">Customization</font>
+            </li>
 <li class="fragment" data-fragment-index="2">
+            <font color="#ffffff">
+                <span style="font-size: 31.683889389038086px;">Testing / Debug</span>
+            </font>
+        </li>
+<li class="fragment" data-fragment-index="3">
         <font color="#ffffff">
-            <span style="font-size: 31.683889389038086px;">Testing / Debug</span>
+            <span style="font-size: 31.683889389038086px;">Deployment</span>
         </font>
     </li>
-<li class="fragment" data-fragment-index="3">
-    <font color="#ffffff">
-        <span style="font-size: 31.683889389038086px;">Deployment</span>
-    </font>
-</li>
 </ol>
 </div>
 </section>
@@ -570,9 +570,10 @@
     </section>
 </section>
 <section>
-    <h2 class="absolute-element" style="position: absolute; width: 953px; height: 678px; z-index: 4; left: 2px; top: 0px;">
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/alrocar/images/42810/slide_last.png">
-    <br>
+    <h2 class="absolute-element" style="position: absolute; width: 959px; height: 680px; z-index: 4; left: 1px; top: 0px;">
+    <a href="http://www.sigte.udg.edu/summerschool2013/" target="_blank">
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/albertoromeu/images/41363/slide_last.png" style="">
+</a>
 </h2>
 </section>
 </div>

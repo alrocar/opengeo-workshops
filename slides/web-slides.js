@@ -1,8 +1,8 @@
 <div class="slides">
     <section>
         <h2 class="absolute-element" style="position: absolute; width: 962px; height: 679px; z-index: 4; left: 0px; top: 1px;">
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/albertoromeu/images/41364/slide_first.png">
-<br>
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/albertoromeu/images/41364/slide_first.png" style="">
+        <br>
 </h2>
 </section>
         <section>
@@ -15,34 +15,37 @@
 </h1>
 <div>
     
-<font color="#6598cd">
-<a href="http://www.twitter.com/alrocar" target="_blank">@alrocar</a>
+<font color="#ffffff">Alberto Romeu -</font>
+<font color="#6598cd">&nbsp;<a href="http://www.twitter.com/alrocar" target="_blank">@alrocar</a>
 </font>
 </div>
+<div>Jorge Sanz - <a href="http://www.twitter.com/xurxosanz" target="_blank">@xurxosanz</a>
+</div>
+
 </section>
             <section>
                 <h1>
                     <font color="#6598cd">AGENDA</font>
                 </h1>
-                <div>
-                    <br>
-                </div>
 <div>
-                <ol>
+                <br>
+            </div>
+<div>
+            <ol>
 <li class="fragment" data-fragment-index="0">HTML (15')</li>
 <li class="fragment" data-fragment-index="1">CSS (15')</li>
 <li class="fragment" data-fragment-index="2">JavaScript (60')</li>
-                <li class="fragment" data-fragment-index="3">Lab (30')</li>
+<li class="fragment" data-fragment-index="3">Lab (30')</li>
 </ol>
-            </div>
+        </div>
 
 
 
 
 </section>
-            <section>
-                <h1>WEB DEVELOPMENT <font color="#6598cd">TOOLS</font>
-            </h1>
+        <section>
+            <h1>WEB DEVELOPMENT <font color="#6598cd">TOOLS</font>
+</h1>
 <div>
             <ul>
 <li class="fragment" data-fragment-index="0">A text editor</li>
@@ -53,9 +56,9 @@
     </section>
     <section data-background-color="rgba( 0, 0, 0, 0.6 )">
         <h1>INTRO TO <font color="#6598cd">HTML</font>
-    </h1>
+</h1>
 <div>
-    <ul>
+        <ul>
 <li class="fragment" data-fragment-index="0">Hyper Text Markup Language</li>
 <li class="fragment" data-fragment-index="1">Standard for writing web pages</li>
 <li class="fragment" data-fragment-index="2">HTML Tags - 1991</li>
@@ -63,18 +66,18 @@
 <li class="fragment" data-fragment-index="4">HTML 4.0 - 1997</li>
 <li class="fragment" data-fragment-index="5">HTML 5.0 - ¿2014?</li>
 </ul>
-</div>
+    </div>
 </section>
 <section data-background-color="rgba( 0, 0, 0, 0.6 )">
     <h1>
-        <font color="#6598cd">WHAT</font> IS HTML?</h1>
+<font color="#6598cd">WHAT</font> IS HTML?</h1>
 <div class="fragment" data-fragment-index="0">
-        <font color="#6598cd" style="font-size: 42px;">
-            <b>WEB PAGES </b>
-        </font>that run in a web browser (client side)</div>
+<font color="#6598cd" style="font-size: 42px;">
+    <b>WEB PAGES </b>
+</font>that run in a web browser (client side)</div>
 <div>
-        <br>
-    </div>
+<br>
+</div>
 <div class="fragment" data-fragment-index="1">
 <pre><code> &lt;html&gt;</code><code>  &lt;head&gt;
     &lt;meta charset="utf-8" /&gt;
@@ -90,8 +93,8 @@
 <section data-background-color="rgba( 0, 0, 0, 0.6 )">
     <h1>THE <font color="#6598cd">DOCUMENT</font> TREE</h1>
 <div>
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/alrocar/images/44875/document-tree.png">
-<br>
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/alrocar/images/44875/document-tree.png" style="">
+    <br>
 </div>
 <div>
 <br>
@@ -279,7 +282,7 @@ Here’s some more content…</code></pre>
     <h1>html <font color="#6598cd">layouts</font>
 </h1>
 <div>
-<br>
+    <br>
 </div>
 <div>
 <pre><code>&lt;!DOCTYPE html&gt;
@@ -311,8 +314,8 @@ I'm the footer&lt;/div&gt;
 </section>
 <section data-background-color="rgba( 12, 25, 77, 0.6)">
     <h1>
-        <font color="#6598cd">FORM</font> AND <font color="#6598cd">INPUT</font>
-    </h1>
+<font color="#6598cd">FORM</font> AND <font color="#6598cd">INPUT</font>
+</h1>
 <div>
     <br>
 </div>
@@ -340,27 +343,27 @@ Username: &lt;input type="text" name="user"&gt;
 <section data-background-color="rgba( 180, 50, 140, 0.6 )">
     <h1>
     <font color="#6598cd">LEARNING</font> RESOURCES</h1>
-    <div>
-        <br>
-    </div>
-    <div>
-        <ul>
-            <li>
-                <a href="https://developer.mozilla.org/en-US/docs/Web_Development/Introduction_to_Web_development" target="blank" style="font-size: 32px; text-align: center;">Mozilla Intro to web development&nbsp;</a>
-                <br>
-            </li>
-            <li>
-                <a href="http://www.webdesignfromscratch.com/html-css/introduction-to-html/" target="blank" style="font-size: 32px; text-align: center;">Intro to HTML&nbsp;</a>
-                <br>
-            </li>
-            <li>
-                <a href="http://www.w3schools.com/html/" target="blank" style="font-size: 32px; text-align: center;">W3Schools intro to HTML&nbsp;</a>
-                <br>
-            </li>
-        </ul>
-    </div>
 <div>
-    <font style="font-size: 32px;">
+    <br>
+</div>
+<div>
+<ul>
+<li>
+<a href="https://developer.mozilla.org/en-US/docs/Web_Development/Introduction_to_Web_development" target="blank" style="font-size: 32px; text-align: center;">Mozilla Intro to web development&nbsp;</a>
+<br>
+</li>
+<li>
+<a href="http://www.webdesignfromscratch.com/html-css/introduction-to-html/" target="blank" style="font-size: 32px; text-align: center;">Intro to HTML&nbsp;</a>
+<br>
+</li>
+<li>
+<a href="http://www.w3schools.com/html/" target="blank" style="font-size: 32px; text-align: center;">W3Schools intro to HTML&nbsp;</a>
+<br>
+</li>
+</ul>
+</div>
+<div>
+<font style="font-size: 32px;">
 </font>
 </div>
 <div>
@@ -389,9 +392,9 @@ Username: &lt;input type="text" name="user"&gt;
 </ul>
 </div>
 </section>
-<section data-background-color="rgba( 200, 50, 30, 0.6 )">
-    <h1>
-        <font color="#6598cd">INTERNAL</font> STYLESHEET</h1>
+    <section data-background-color="rgba( 200, 50, 30, 0.6 )">
+        <h1>
+<font color="#6598cd">INTERNAL</font> STYLESHEET</h1>
 <div>
         <br>
     </div>
@@ -407,10 +410,10 @@ CSS Content Goes Here
 </section>
 <section data-background-color="rgba( 200, 50, 30, 0.6 )">
     <h1>
-        <font color="#6598cd">EXTERNAL</font> STYLESHEET</h1>
+<font color="#6598cd">EXTERNAL</font> STYLESHEET</h1>
 <div>
-        <br>
-    </div>
+    <br>
+</div>
 <div>
 <pre><code>&lt;head&gt;
 &lt;title&gt;&lt;title&gt;
@@ -421,16 +424,16 @@ CSS Content Goes Here
 </section>
 <section data-background-color="rgba( 200, 50, 30, 0.6 )">
     <h1>
-        <font color="#6598cd">INLINE</font> STYLES</h1>
+<font color="#6598cd">INLINE</font> STYLES</h1>
 <div>
-        <br>
-    </div>
+    <br>
+</div>
 <div>
 <pre><code> &lt;p style=”color: #ff0000;”&gt;Some red text&lt;/p&gt;</code></pre>
 </div>
 </section>
 <section data-background-color="rgba( 50, 200, 90, 0.4 )">
-    <h1>CSS <font color="#6598cd">SYNTAX</font>
+<h1>CSS <font color="#6598cd">SYNTAX</font>
 </h1>
 <div>selector { property: value }<br>
 </div>
@@ -464,7 +467,7 @@ p {font-family: Tahoma, serif;}</code></pre>
     <h1>TAG <font color="#6598cd">SELECTOR</font>
 </h1>
 <div>
-<br>
+    <br>
 </div>
 <div>
 <div style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;">
@@ -488,7 +491,7 @@ p {font-family: Tahoma, serif;}</code></pre>
     <h1>CLASS <font color="#6598cd">SELECTOR</font>
 </h1>
 <div>
-<br>
+    <br>
 </div>
 <div>
 <pre><code> <span> &lt;span class="greentext"&gt;I'm green&lt;/span&gt;</span></code></pre>
@@ -506,7 +509,7 @@ p {font-family: Tahoma, serif;}</code></pre>
     <h1>id <font color="#6598cd">selector</font>
 </h1>
 <div>
-<br>
+    <br>
 </div>
 <div>
 <pre><code>&lt;div id="container"&gt;</code><code>This is a div</code><code>&lt;/div&gt;</code></pre>
@@ -528,7 +531,7 @@ p {font-family: Tahoma, serif;}</code></pre>
 </div>
 <div>
 <span style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;">
-    <a href="http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/" target="blank">30 css selectors you must memorize</a>
+<a href="http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/" target="blank">30 css selectors you must memorize</a>
 </span>
 <br>
 </div>
@@ -541,47 +544,47 @@ p {font-family: Tahoma, serif;}</code></pre>
 <br>
 </div>
 <div>
-    <a href="http://www.w3.org/TR/CSS21/propidx.html" target="blank">CSS 2.1 properties</a>
+<a href="http://www.w3.org/TR/CSS21/propidx.html" target="blank">CSS 2.1 properties</a>
     <br>
 </div>
 <div>
-    <a href="http://meiert.com/en/indices/css-properties/" target="blank">Comprehensive list of properties</a>
+<a href="http://meiert.com/en/indices/css-properties/" target="blank">Comprehensive list of properties</a>
     <br>
 </div>
 </section>
     <section data-background-color="rgba( 180, 50, 140, 0.6 )">
         <h1>
     <font color="#6598cd">LEARNING</font> RESOURCES</h1>
-        <div>
-            <br>
-        </div>
 <div>
-        <ul>
-            <li>
-                <a href="http://www.cssbasics.com/introduction-to-css/" target="blank" style="text-align: center;">Intro to CSS</a>
-                <br>
-            </li>
-            <li>
-                <a href="http://www.w3schools.com/css/css_syntax.asp" target="blank" style="text-align: center;">CSS syntax</a>
-                <br>
-            </li>
-            <li>
-                <a href="http://ureddit.com/files/class24073/files/03-css.pdf" target="blank" style="text-align: center;">CSS basics</a>
-                <br>
-            </li>
-            <li>
-                <a href="http://www.w3.org/TR/CSS2/selector.html" target="blank" style="text-align: center;">CSS selectors</a>
-                <br>
-            </li>
-            <li>
-                <a href="http://www.w3.org/Style/CSS/specs" target="blank" style="text-align: center;">CSS specs</a>
-                <br>
-            </li>
-            <li>
-                <a href="http://twitter.github.io/bootstrap/base-css.html" target="blank" style="text-align: center;">Twitter bootstrap</a>
-                <br>
-            </li>
-        </ul>
+        <br>
+    </div>
+<div>
+    <ul>
+<li>
+<a href="http://www.cssbasics.com/introduction-to-css/" target="blank" style="text-align: center;">Intro to CSS</a>
+    <br>
+</li>
+<li>
+<a href="http://www.w3schools.com/css/css_syntax.asp" target="blank" style="text-align: center;">CSS syntax</a>
+    <br>
+</li>
+<li>
+<a href="http://ureddit.com/files/class24073/files/03-css.pdf" target="blank" style="text-align: center;">CSS basics</a>
+    <br>
+</li>
+<li>
+<a href="http://www.w3.org/TR/CSS2/selector.html" target="blank" style="text-align: center;">CSS selectors</a>
+    <br>
+</li>
+<li>
+<a href="http://www.w3.org/Style/CSS/specs" target="blank" style="text-align: center;">CSS specs</a>
+    <br>
+</li>
+<li>
+<a href="http://twitter.github.io/bootstrap/base-css.html" target="blank" style="text-align: center;">Twitter bootstrap</a>
+    <br>
+</li>
+</ul>
 </div>
 
 
@@ -592,25 +595,25 @@ p {font-family: Tahoma, serif;}</code></pre>
     <br>
 </div>
 </section>
-        <section data-background-color="rgba( 0, 0, 0, 0.6 )">
-            <h1>INTRO TO <font color="#6598cd">JAVASCRIPT</font>
-        </h1>
+<section data-background-color="rgba( 0, 0, 0, 0.6 )">
+    <h1>INTRO TO <font color="#6598cd">JAVASCRIPT</font>
+</h1>
 <div>
-        <ul>
+    <ul>
 <li class="fragment" data-fragment-index="0">Scripting programming language</li>
 <li class="fragment" data-fragment-index="1">Client side (also server side)</li>
 <li class="fragment" data-fragment-index="2">Interpreted (runtime evaluation)</li>
 <li class="fragment" data-fragment-index="3">JavaScript 1.0 - 1996</li>
 <li class="fragment" data-fragment-index="4">Javascript 1.8.5 - 2010</li>
 </ul>
-    </div>
+</div>
 </section>
 <section data-background-color="rgba( 200, 50, 30, 0.6 )">
     <h1>
-        <font color="#6598cd">JAVASCRIPT</font> IN HTML</h1>
+<font color="#6598cd">JAVASCRIPT</font> IN HTML</h1>
 <div>
-        <br>
-    </div>
+    <br>
+</div>
 <div class="fragment" data-fragment-index="0">
 <pre><code>&lt;script type="text/javascript"&gt;
 //JavaScript goes here
@@ -633,7 +636,7 @@ p {font-family: Tahoma, serif;}</code></pre>
     <h1>
         <br>
     </h1>
-    <h1>JAVASCRIPT <font color="#6598cd">LAB</font>
+<h1>JAVASCRIPT <font color="#6598cd">LAB</font>
 </h1>
 </section>
 <section data-background-color="rgba( 12, 25, 77, 0.6)">
@@ -653,8 +656,8 @@ p {font-family: Tahoma, serif;}</code></pre>
 <section data-background-color="rgba( 12, 25, 77, 0.6)">
     <h1>THE <font color="#6598cd">DOCUMENT</font> TREE</h1>
 <div>
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/alrocar/images/44875/document-tree.png">
-<br>
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/alrocar/images/44875/document-tree.png" style="">
+    <br>
 </div>
 <div>
 <br>
@@ -664,16 +667,16 @@ p {font-family: Tahoma, serif;}</code></pre>
         <h1 style="font-style: normal; font-variant: normal;">
             <font color="#6598cd">DOM</font>
         </h1>
-        <h2>Document oBJECT MODEL</h2>
-        <div>
-            <br>
-        </div>
+<h2>Document oBJECT MODEL</h2>
 <div>
-        <ul>
+        <br>
+    </div>
+<div>
+    <ul>
 <li class="fragment" data-fragment-index="0">Access with JavaScript</li>
 <li class="fragment" data-fragment-index="1">Better with jQuery</li>
 </ul>
-    </div>
+</div>
 <div>
     <br>
 </div>
@@ -682,18 +685,92 @@ p {font-family: Tahoma, serif;}</code></pre>
     <br>
 </div>
 </section>
-    <section data-background-color="rgba( 50, 200, 90, 0.4 )">
-        <div style="overflow:hidden !important;">
+<section data-background-color="rgba( 12, 25, 77, 0.6)">
+    <h1>
+        <font color="#6598cd">DOM</font>
+    </h1>
+<div>
+<pre><code>var element = document.getElementById("theID");</code><code>document.getElementByClass('a');</code><code><br></code><code>element.innerHTML = "Write the HTML";</code><code><br></code><code>element.style.color = "blue";</code></pre>
+</div>
+</section>
+<section data-background-color="rgba( 255, 122, 0, 0.6 )">
+    <h1>
+        <br>
+    </h1>
+<h1>WEB PROGRAMMING <font color="#6598cd">LAB</font>
+</h1>
+</section>
+<section data-background-color="rgba( 255, 122, 0, 0.6 )">
+    <h1>Complete the <font color="#6598cd">HTML</font>
+</h1>
+<div>
+    <font color="#6598cd">
+        <br>
+    </font>
+</div>
+<div>
+<ul>
+<li>Set the title of the web page</li>
+<li>Add the link tag to import the profile.css file</li>
+<li>Add the script tag to import the profile.js file</li>
+<li>Add a VERY BIG header in the div 'container' with the id 'myname'</li>
+</ul>
+</div>
+</section>
+<section data-background-color="rgba( 255, 122, 0, 0.6 )">
+    <h1>COMPLETE THE <font color="#6598cd">CSS</font>
+</h1>
+<div>
+    <font color="#6598cd">
+        <br>
+</font>
+</div>
+<div>
+    <ul>
+<li>
+            <font color="#ffffff">Change the body color to #444</font>
+        </li>
+        <li>
+            <font color="#ffffff">Set the container width to 800px</font>
+        </li>
+        <li>
+            <font color="#ffffff">Create a style for h2 tags</font>
+        </li>
+        <ul>
+<li>
+                <font color="#ffffff">Change the weight, size and color of the font</font>
+            </li>
+        </ul>
+</ul>
+</div>
+</section>
+<section data-background-color="rgba( 255, 122, 0, 0.6 )">
+    <h2>
+    <font style="font-size: 112px;">COMPLETE THE <font color="#6598cd">JAVASCRIPT</font>
+</font>
+</h2>
+<div>
+    <ul>
+        <font color="#ffffff" style="font-size: 32px;">
+            <li>Open the profile.js</li>
+<li>Write the code necessary after the comments</li>
+        </font>
+    </ul>
+</div>
+
+</section>
+<section data-background-color="rgba( 50, 200, 90, 0.4 )">
+    <div style="overflow:hidden !important;">
 <h1>
     <font style="font-size: 112px;" color="#6598cd">libraries</font>&nbsp;<br>
-        </h1>
+</h1>
 <h2>
             <font color="#ffffff">vs</font>
-        </h2>
+</h2>
             <h1>
                 <font style="font-size: 112px;" color="#6598cd">micro-frameworks&nbsp;
             </font>
-    </h1>
+</h1>
             <h2>
                 <font color="#ffffff">VS</font>&nbsp;</h2>
                 <h1>
@@ -704,50 +781,52 @@ p {font-family: Tahoma, serif;}</code></pre>
 </section>
     <section data-background-color="rgba( 50, 200, 90, 0.4 )">
         <h1>JAVASCRIPT <font color="#6598cd">LIBRARIES</font>
-    </h1>
-    <div>
+</h1>
+<div>
         <br>
     </div>
-    <div>
-        <ul>
-            <li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="0">A collection of functionality you can call.</li>
-            <li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="1">Integrated.</li>
-            <li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="2">Tested</li>
-            <li style="font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="3">
-                <span style="font-style: normal; font-variant: normal;">
-                    <font style="font-size: 72px;">
-                        <b>BIG</b>
-                    </font>
-                </span>
-                <br>
-            </li>
-        </ul>
-    </div>
+<div>
+    <ul>
+<li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="0">A collection of functionality you can call.</li>
+<li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="1">Integrated.</li>
+<li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="2">Tested</li>
+<li style="font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="3">
+<span style="font-style: normal; font-variant: normal;">
+    <font style="font-size: 72px;">
+        <b>BIG</b>
+    </font>
+</span>
+<br>
+</li>
+</ul>
+</div>
 </section>
 <section data-background-color="rgba( 50, 200, 90, 0.4 )">
     <h2>JAVASCRIPT <font color="#6598cd">MICRO-FRAMEWORKS</font>
 </h2>
 <div>
-    <font color="#6598cd">
-        <br>
-    </font>
+<font color="#6598cd">
+    <br>
+</font>
 </div>
 <div>
-    <ul>
-        <li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="0">Solves a single problem</li>
-        <li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="1">Modular</li>
-        <li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="2">Not always integrated</li>
-        <li style="font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="3">
-            <span style="font-style: normal; font-variant: normal;">
-                <font style="font-size: 24px;">
-                    <b>Small</b>
-                </font>
-            </span>
-        </li>
-        <li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="4">
-            <span style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;">http://microjs.com/</span>
-        </li>
-    </ul>
+<ul>
+<li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="0">Solves a single problem</li>
+<li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="1">Modular</li>
+<li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="2">Not always integrated</li>
+<li style="font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="3">
+<span style="font-style: normal; font-variant: normal;">
+    <font style="font-size: 24px;">
+        <b>Small</b>
+    </font>
+</span>
+</li>
+<li style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;" class="fragment" data-fragment-index="4">
+<span style="font-size: 36.047515869140625px; font-style: normal; font-variant: normal;">
+    <a href="http://microjs.com/" target="blank">http://microjs.com/</a>
+</span>
+</li>
+</ul>
 </div>
 </section>
 <section data-background-color="rgba( 50, 200, 90, 0.4 )">
@@ -759,37 +838,37 @@ p {font-family: Tahoma, serif;}</code></pre>
     </font>
 </div>
 <div>
-    <ul>
-        <li class="fragment" data-fragment-index="0">
-            <span style="text-align: center;">Several libraries together</span>
-            <br>
-        </li>
-        <li class="fragment" data-fragment-index="1">
-            <span style="text-align: center;">Set of components you can use (or not)</span>
-            <br>
-        </li>
-        <li class="fragment" data-fragment-index="2">
-            <span style="text-align: center;">Integrated</span>
-            <br>
-        </li>
-        <li class="fragment" data-fragment-index="3">
-            <b style="text-align: center;">
-                <font style="font-size: 72px;">BIGGER</font>
-            </b>
-            <br>
-        </li>
-    </ul>
+<ul>
+<li class="fragment" data-fragment-index="0">
+<span style="text-align: center;">Several libraries together</span>
+<br>
+</li>
+<li class="fragment" data-fragment-index="1">
+<span style="text-align: center;">Set of components you can use (or not)</span>
+<br>
+</li>
+<li class="fragment" data-fragment-index="2">
+<span style="text-align: center;">Integrated</span>
+<br>
+</li>
+<li class="fragment" data-fragment-index="3">
+<b style="text-align: center;">
+<font style="font-size: 72px;">BIGGER</font>
+</b>
+<br>
+</li>
+</ul>
 </div>
 </section>
 <section data-background-color="rgba( 50, 200, 90, 0.4 )">
     <h1>
         <font color="#6598cd">widgetS</font>
     </h1>
-    <div>
-        <br>
-    </div>
 <div>
-    <ul>
+    <br>
+</div>
+<div>
+<ul>
 <li>jQuery UI</li>
 <li>ExtJS</li>
 <li>MochaUI</li>
@@ -801,11 +880,11 @@ p {font-family: Tahoma, serif;}</code></pre>
     <h1>
         <font color="#6598cd">Graphical</font>
     </h1>
-    <div>
-        <br>
-    </div>
 <div>
-    <ul>
+    <br>
+</div>
+<div>
+<ul>
 <li>D3</li>
 <li>Raphael</li>
 <li>Kinetic</li>
@@ -817,15 +896,15 @@ p {font-family: Tahoma, serif;}</code></pre>
     <h1>
         <font color="#6598cd">MAPPING</font>
     </h1>
-    <div>
-        <font color="#6598cd">
-            <br>
-        </font>
-    </div>
 <div>
-    <ul>
+    <font color="#6598cd">
+        <br>
+    </font>
+</div>
+<div>
+<ul>
 <li>OpenLayers</li>
-    <li>LeafletJS (MF)</li>
+<li>LeafletJS (MF)</li>
 <li>ModestMaps (MF)</li>
 <li>PolyMapS</li>
 </ul>
@@ -849,36 +928,36 @@ p {font-family: Tahoma, serif;}</code></pre>
 <section data-background-color="rgba( 180, 50, 140, 0.6 )">
     <h1>
     <font color="#6598cd">LEARNING</font> RESOURCES</h1>
-    <div>
-        <br>
-    </div>
 <div>
-    <ul>
-        <li>
-            <a href="http://www.w3schools.com/js/js_intro.asp" target="blank" style="text-align: center;">W3Schools JavaScript intro</a>
-            <br>
-        </li>
-        <li>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript" target="blank" style="text-align: center;">Mozilla Intro to JS</a>
-            <br>
-        </li>
-        <li>
-            <a href="http://www.howtocreate.co.uk/tutorials/javascript/" target="blank" style="text-align: center;">JavaScript tutorial</a>
-            <br>
-        </li>
-        <li>
-            <a href="http://en.wikipedia.org/wiki/List_of_JavaScript_libraries" target="blank" style="text-align: center;">List of JavaScript libraries</a>
-            <br>
-        </li>
-        <li>
-            <a href="http://gis.stackexchange.com/questions/8032/how-do-various-javascript-mapping-libraries-compare" target="blank" style="text-align: center;">Mapping libraries comparison</a>
-            <br>
-        </li>
-        <li>
-            <a href="http://addyosmani.com/blog/prosconsmicroframeworks/" target="blank" style="text-align: center;">Pros and cons of Micro-frameworks</a>
-            <br>
-        </li>
-    </ul>
+    <br>
+</div>
+<div>
+<ul>
+<li>
+<a href="http://www.w3schools.com/js/js_intro.asp" target="blank" style="text-align: center;">W3Schools JavaScript intro</a>
+<br>
+</li>
+<li>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript" target="blank" style="text-align: center;">Mozilla Intro to JS</a>
+<br>
+</li>
+<li>
+<a href="http://www.howtocreate.co.uk/tutorials/javascript/" target="blank" style="text-align: center;">JavaScript tutorial</a>
+<br>
+</li>
+<li>
+<a href="http://en.wikipedia.org/wiki/List_of_JavaScript_libraries" target="blank" style="text-align: center;">List of JavaScript libraries</a>
+<br>
+</li>
+<li>
+<a href="http://gis.stackexchange.com/questions/8032/how-do-various-javascript-mapping-libraries-compare" target="blank" style="text-align: center;">Mapping libraries comparison</a>
+<br>
+</li>
+<li>
+<a href="http://addyosmani.com/blog/prosconsmicroframeworks/" target="blank" style="text-align: center;">Pros and cons of Micro-frameworks</a>
+<br>
+</li>
+</ul>
 </div>
 
 
@@ -889,11 +968,11 @@ p {font-family: Tahoma, serif;}</code></pre>
     <br>
 </div>
 </section>
-    <section>
-        <h2 class="absolute-element" style="position: absolute; width: 959px; height: 680px; z-index: 4; left: 1px; top: 0px;">
+<section>
+    <h2 class="absolute-element" style="position: absolute; width: 959px; height: 680px; z-index: 4; left: 1px; top: 0px;">
     <a href="http://www.sigte.udg.edu/summerschool2013/" target="_blank">
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/albertoromeu/images/41363/slide_last.png">
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/albertoromeu/images/41363/slide_last.png" style="">
 </a>
 </h2>
-    </section>
+</section>
 </div>
